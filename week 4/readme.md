@@ -1,1 +1,1 @@
-Aoolication: Resourse constrained Project Scheduling
+Application: Resourse constrained Project Scheduling
